@@ -1,7 +1,7 @@
-d# Proyecto textarea
+# Proyecto textarea
 
 ## visita la web: https://roadmap.sh/projects/restricted-textarea
-mi
+mid
 so
 o
 p
